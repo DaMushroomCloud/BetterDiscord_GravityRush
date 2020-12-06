@@ -1,5 +1,15 @@
 # Gravity Rush theme for Better Discord Software 
-This is going to be an ongoing project for a nice UI based on the game Gravity Rush 2. A Gravity Rush 1 variant may make it's way into the future.
+To install these themes follow these instructions
 
+1. Install Better Discord 
+https://github.com/rauenzi/BetterDiscordApp/releases
+2. Download this repo for the themes.
+3. Setup better discord and go into your profile settings and at the bottom there is a "Themes" section.
+4. Install your selected theme by opening the theme's folder and dragging your theme file into the themes folder for better discord. (ONLY ONE)
+**NOTE: YOU CAN ONLY INSTALL ONE THEME AT A TIME, DO NOT THROW ALL THREE INTO THE SAME DIRECTORY**
 
-I am going to edit an exising set of code but I want to learn where to begin as I am a begginner in CSS. This is just a learning project for when I get to it.
+If you have questions, ping me on discord (Mush#8998)
+
+Original Linking code belongs to DevilBro
+Check him out 
+Thanks.
