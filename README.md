@@ -15,5 +15,5 @@ Original Linking code and BasicBackground Project for Better Discord belongs to 
 Check him out 
 Thanks.
 
-COMMISSION CREDITS
+## COMMISSION CREDITS
 KatRavenLunch.PNG Was made by Twitter Artist [funayfunay](https://twitter.com/funayfunay?s=09) for Twitter user [Cpt. Barricade](https://twitter.com/Cpt_Barricade)
